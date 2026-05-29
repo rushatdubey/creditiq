@@ -17,7 +17,7 @@ CreditIQ is built to surface all of it. It transforms 10 years of regulator-publ
 
 ## Live Demo
 
-> **Coming Soon.** Hosted deployment in progress.
+https://creditiq-navy.vercel.app
 
 In the meantime, clone the repo and open `index.html` directly in your browser. No build step, no dependencies.
 
