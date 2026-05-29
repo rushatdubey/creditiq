@@ -269,7 +269,8 @@ creditiq/
 │   ├── 03_consumer_credit.csv
 │   ├── 04_sme_lending.csv
 │   ├── 05_credit_risk_scorecard.csv
-│   └── 06_rate_sensitivity.csv
+│   ├── 06_rate_sensitivity.csv
+│   └── Additional intermediate and macroprudential datasets used for exploratory analysis and portfolio stress testing are also included   │       in the /data directory.
 ├── sql/
 │   ├── 01_schema.sql
 │   ├── 02_credit_risk_queries.sql
